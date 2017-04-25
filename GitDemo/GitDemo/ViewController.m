@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Hello Welcome to Git Hub hi ");
+    NSLog(@"i am able to change files");
 }
 
 
